@@ -21,3 +21,4 @@ function draw() {
 function play(){
     music.play();
 }
+
