@@ -15,5 +15,9 @@ function setup() {
 }
 
 function draw() {
-    image(capture, 0, 0, 600, 500)
+    image(capture, 0, 0, 600, 500);
+}
+
+function play(){
+    music.play();
 }
